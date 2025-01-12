@@ -6,5 +6,6 @@
                 "lib/**/*.jar",
                 "/Applications/Utilities/**/*.jar"
         ],
-        }
+        },
+        "java.debug.settings.onBuildFailureProceed": true
 }
